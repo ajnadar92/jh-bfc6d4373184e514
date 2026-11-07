@@ -1,0 +1,60 @@
+{
+  "outlook_checked_at": "2026-11-07T09:28:20.696949-06:00",
+  "outlook_scope": "All folders, Nov 6 10:00 AM CT to Nov 7 audit time; four pages, 338 messages; separate Drafts metadata review",
+  "linkedin_last_checked": "2026-11-06T12:28:00-06:00",
+  "linkedin_scope": "Prior Nov 6 limited audit retained; no new LinkedIn review",
+  "direct_application_only": true,
+  "unmatched_prior_rejections_excluded": 4,
+  "outreach_drafts_current": 0,
+  "new_direct_rejections_or_closures": 8,
+  "new_bounces": 0,
+  "new_direct_outreach_sent": 0,
+  "summary": {
+    "outreach": {
+      "sent": 209,
+      "none": 171,
+      "replied": 25,
+      "bounced": 5,
+      "n/a (Braintrust marketplace)": 2
+    },
+    "li_sent": 124,
+    "li_pending": 101,
+    "li_accepted": 21,
+    "applied": 412,
+    "companies": 298,
+    "rejected": 116,
+    "waiting": 289,
+    "responses": 6,
+    "interviews": 1,
+    "rate": "30%",
+    "today": 0,
+    "week": 24,
+    "cap": [
+      [
+        "Centene",
+        6
+      ],
+      [
+        "Coinbase",
+        5
+      ],
+      [
+        "Stripe",
+        5
+      ],
+      [
+        "Pinterest",
+        5
+      ],
+      [
+        "Oracle",
+        5
+      ],
+      [
+        "CareSource",
+        5
+      ]
+    ],
+    "actions": 6
+  }
+}
