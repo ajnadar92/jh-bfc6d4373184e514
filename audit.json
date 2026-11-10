@@ -1,12 +1,12 @@
 {
-  "outlook_checked_at": "2026-11-07T09:28:20.696949-06:00",
-  "outlook_scope": "All folders, Nov 6 10:00 AM CT to Nov 7 audit time; four pages, 338 messages; separate Drafts metadata review",
+  "outlook_checked_at": "2026-11-07T18:56:59.558701-06:00",
+  "outlook_scope": "Live all-folder Nov7 midnightCT through evening audit:131messages,2pages,no nextLink. SentItems2today,no nextLink;Drafts2legacyprivatebefore newCDWdraft;newCDWdraftverifiedisDrafttrue+DOCXattachment. Supplements earlierNov7 09:28AMCT audit of338messages sinceNov6 10AMCT; overlapping scopes not summed as unique.",
   "linkedin_last_checked": "2026-11-06T12:28:00-06:00",
-  "linkedin_scope": "Prior Nov 6 limited audit retained; no new LinkedIn review",
+  "linkedin_scope": "Nov6 12:28PMCT limited platform audit retained. Today131all-folderemail audit found no new connection/invite notifications; no new LinkedIn platform review, do not imply exhaustive current platform coverage.",
   "direct_application_only": true,
   "unmatched_prior_rejections_excluded": 4,
-  "outreach_drafts_current": 0,
-  "new_direct_rejections_or_closures": 8,
+  "outreach_drafts_current": 1,
+  "new_direct_rejections_or_closures": 2,
   "new_bounces": 0,
   "new_direct_outreach_sent": 0,
   "summary": {
@@ -15,20 +15,21 @@
       "none": 171,
       "replied": 25,
       "bounced": 5,
-      "n/a (Braintrust marketplace)": 2
+      "n/a (Braintrust marketplace)": 2,
+      "drafted": 1
     },
     "li_sent": 124,
     "li_pending": 101,
     "li_accepted": 21,
-    "applied": 412,
+    "applied": 413,
     "companies": 298,
-    "rejected": 116,
-    "waiting": 289,
+    "rejected": 118,
+    "waiting": 288,
     "responses": 6,
     "interviews": 1,
     "rate": "30%",
-    "today": 0,
-    "week": 24,
+    "today": 1,
+    "week": 25,
     "cap": [
       [
         "Centene",
@@ -56,5 +57,7 @@
       ]
     ],
     "actions": 6
-  }
+  },
+  "new_confirmed_applications": 1,
+  "jeppesen_reset": "No reset email/link found in allfolderstoday, or targeted password/Jeppesen/ForeFlight searches. No resetlink/privatepasswordcopied."
 }
